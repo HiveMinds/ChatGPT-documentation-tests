@@ -11,7 +11,7 @@ Loops over each function in your project and asks ChatGPT to write its:
 Per function, runs `pre-commit` untill ChatGPT returns valid documentation and tests,
 **without** modifying the function.
 
-This is a WIP/empty template, feel free to build/contribute!
+This is a WIP/empty template, feel free to [build/contribute](https://github.com/HiveMinds/ChatGPT-documentation-tests/issues/1) with a PR!
 
 ## Usage
 
