@@ -43,6 +43,8 @@ repos:
     - id: mypy
       # args: ["--disallow-untyped-calls", "--disallow-untyped-defs"]
       args: ["--strict"]
+      additional_dependencies:
+            - typeguard
 
   # TODO:
   #--strict

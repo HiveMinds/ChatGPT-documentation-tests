@@ -5,13 +5,15 @@
 [![Code Style: Black][black_badge]](https://github.com/ambv/black)
 
 Loops over each function in your project and asks ChatGPT to write its:
- - documentation
- - tests
- 
-Per function, runs `pre-commit` untill ChatGPT returns valid documentation and tests,
+
+- documentation
+- tests
+
+Per function, runs `pre-commit` until ChatGPT returns valid documentation and tests,
 **without** modifying the function.
 
-This is a WIP/empty template, feel free to [build/contribute](https://github.com/HiveMinds/ChatGPT-documentation-tests/issues/1) with a PR!
+This is a WIP/empty template, feel free to [build/contribute](https://github.com/HiveMinds/ChatGPT-documentation-tests/issues/1)
+with a PR!
 
 ## Usage
 
@@ -20,7 +22,6 @@ First install this pip package with:
 ```bash
 pip install chatgpt-docs-and-tests
 ```
-
 
 ## Developer
 
@@ -55,7 +56,7 @@ python3 -m twine upload dist/\*
 ```
 
 <!-- Un-wrapped URL's below (Mostly for Badges) -->
+
 [agpl3_badge]: https://img.shields.io/badge/License-AGPL_v3-blue.svg
 [black_badge]: https://img.shields.io/badge/code%20style-black-000000.svg
 [python_badge]: https://img.shields.io/badge/python-3.6-blue.svg
-
