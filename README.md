@@ -20,7 +20,7 @@ with a PR!
 First install this pip package with:
 
 ```bash
-pip install chatgpt-docs-and-tests
+pip install gpt_docs_and_tests
 ```
 
 ## Developer

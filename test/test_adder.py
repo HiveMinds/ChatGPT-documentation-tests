@@ -3,7 +3,7 @@ import unittest
 
 from typeguard import typechecked
 
-from src.pythontemplate.adder import add_two
+from src.gpt_docs_and_tests.adder import add_two
 
 
 class Test_adder(unittest.TestCase):

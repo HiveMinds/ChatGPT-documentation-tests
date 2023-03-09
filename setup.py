@@ -1,4 +1,4 @@
-"""Packaging logic for pythontemplate."""
+"""Packaging logic for gpt_docs_and_tests."""
 from __future__ import annotations
 
 import os
